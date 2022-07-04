@@ -2,8 +2,10 @@
   <div class="relative h-screen overflow-y-hidden">
     <TabUppertab class=""/>
     <div class="container mx-auto relative">
-      <TabMaintab class="my-2 absolute z-10" />
+      
     </div>
+
+    <TabMaintab class="my-2 absolute" />
     <div class="container mx-auto relative">
       <CtaAction class="absolute z-10 my-48 xl:my-60"/>
     </div>
