@@ -6,7 +6,7 @@
         </div>
 
         <div class="">
-            <div class="w-full bg-primary-100 bg-opacity-50 absolute h-96"></div>
+            <div class="w-full bg-black opacity-50 absolute h-96"></div>
             <img :src="require('@/images/interview.jpg')" class="object-cover h-96 w-full justify-center" />
         </div>
 
