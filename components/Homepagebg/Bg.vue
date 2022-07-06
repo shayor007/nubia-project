@@ -1,11 +1,11 @@
 <template>
-  <div class="bg">
+  <div class="bg h-screen">
 
-    <div class="w-full h-screen-80 bg-black bg-opacity-75">
+    <div class="w-full lg:h-screen  bg-black bg-opacity-75">
       <div class="h-full py-32 ">
         <div class="px-10 items-center">
             <div class="text-white text-4xl md:text-7xl lg:text-5xl max-w-3xl font-medium lg:text-6xl xl:text-7xl">
-                The better we <span class="underline underline-offset-8"> know you</span>, the more we can do. We'll take <span class="underline underline-offset-8">you farther</span>.
+                The better we <span class="underline underline-offset-8"> know you</span>, the more we can do. We'll take <span class="underline underline-offset-8">you further</span>.
             </div>
 
             <div class="py-6">

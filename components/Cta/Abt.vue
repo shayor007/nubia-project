@@ -5,7 +5,7 @@
                 <div class="mx-auto">
                     <div class="">
                         <div class="block md:block lg:flex items-center">
-                            <div class="my-10 text-base w-full lg:w-3/5">
+                            <div class="lg:hidden my-10 text-base w-full lg:w-3/5">
                             
                                 <div class="px-10 lg:px-32 ">
                                     We aim to become the most reputable private investment firm with a focus on the African continent <br />
@@ -28,7 +28,7 @@
                             </div>
                             
                              
-                            <div class="lg:w-2/5 bg-no-repeat bg-cover bg-center py-32" :style="{backgroundRepeat: 'no-repeat' + ';' , backgroundImage: 'url(' + require('@/images/abt.jpg') +')'}">
+                            <div class="lg:hidden lg:w-2/5 bg-no-repeat bg-cover bg-center py-32" :style="{backgroundRepeat: 'no-repeat' + ';' , backgroundImage: 'url(' + require('@/images/abt.jpg') +')'}">
                                 <div class="p-40 w-full">
                                 </div>
                             </div>

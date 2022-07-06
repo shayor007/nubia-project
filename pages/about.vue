@@ -24,7 +24,7 @@
                     <div class="md:grid grid-cols-2 gap-6 max-w-6xl mx-auto">
                         <div class="container block md:mx-auto md:lg:flex">
                             <div class="text-4xl font-medium mb-2 my-6 ">
-                                About Nubia Capital. 
+                                About Nubia Capital 
                             </div>
 
                             <div class="text-base ">
@@ -52,31 +52,31 @@
                 </div>
 
 
-            <div class="text-4xl font-medium mb-2 text-center py-10">Where we invest</div>
+            <div  data-aos="ease-in" data-aos-duration="4000" class="text-4xl font-medium mb-2 text-center py-10">Where We Invest</div>
 
 
-                <div class="bg-no-repeat bg-cover bg-center py-36" :style="{backgroundRepeat: 'no-repeat' + ';' , backgroundImage: 'url(' + require('@/images/abt.jpg') +')'}">
+                <div class="bg-no-repeat bg-cover bg-center py-36" :style="{backgroundRepeat: 'no-repeat' + ';' , backgroundImage: 'url(' + require('@/images/meeting1.jpg') +')'}">
                     <div class="pt-10 max-w-4xlg mx-auto container">
                         <div class="px-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 md:mx-auto lg:max-w-9xl">
-                            <div class="shadow-lg bg-white p-4 text-center rounded-md">
+                            <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-lg bg-white p-4 text-center rounded-md">
                                 <img :src="require('@/images/africa.png')" alt="" class="w-16 mx-auto flex justify-center mb-2">
                                 <div class="font-bold  text-center">Geography</div>
                                 <div>Africa or Africa-focused</div>
                             </div>
 
-                            <div class="shadow-lg bg-white p-4 text-center rounded-md">
+                            <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-lg bg-white p-4 text-center rounded-md">
                                 <img :src="require('@/images/software.png')" alt="" class="w-16 mx-auto flex justify-center mb-2">
                                 <div class="font-bold text-center">Industries/Focus areas</div>
                                 <div>Software, technology-enabled businesses, industry consolidation</div>
                             </div>
 
-                            <div class="shadow-lg bg-white p-4 text-center rounded-md">
+                            <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-lg bg-white p-4 text-center rounded-md">
                                 <img :src="require('@/images/revenue.png')" alt="" class="w-16 mx-auto flex justify-center mb-2">
                                 <div class="font-bold text-center">Revenue</div>
                                 <div>Greater than $5 million</div>
                             </div>
 
-                            <div class="shadow-lg bg-white p-4 text-center rounded-md">
+                            <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-lg bg-white p-4 text-center rounded-md">
                                 <img :src="require('@/images/value.png')" alt="" class="w-16 mx-auto flex justify-center mb-2">
                                 <div class="font-bold text-center">Enterprise value</div>
                                 <div >Up to $1 billion</div>
@@ -87,7 +87,7 @@
             </div>
         </div>
 
-        <div class="text-4xl font-medium mb-2 text-center mt-8">Transaction types</div>
+        <div class="text-4xl font-medium mb-2 text-center mt-8">Transaction Types</div>
         <div class="p-2"></div>
 
 
@@ -95,43 +95,43 @@
             <div class="gap-6">
                 <div class=" mx-auto ">
                     <div class="px-10 grid grid-cols-2 md:grid-cols-3 xl:grid-cols-5 gap-6 mx-auto text-center max-w-9xl">
-                        <div class="shadow-md p-4">
+                        <div data-aos="slide-left" data-aos-duration="4000" class="shadow-md p-4">
                             <div class="text-6xl text-gray-200">
                                 1
                             </div>
                             <div class="p-2"></div>
                         
-                            <div class="text-sm md:text-base md:font-semibold">Growth capital</div>
+                            <div class="text-sm md:text-base font-semibold">Growth capital</div>
                         </div>
 
-                        <div class="shadow-md p-4">
+                        <div data-aos="slide-right" data-aos-duration="4000" class="shadow-md p-4">
                             <div class="text-6xl text-gray-200" >
                                 2
                             </div>
                             <div class="p-2"></div>
                         
-                            <div class="text-sm md:text-base md:font-semibold ">Majority recapitalization</div>
+                            <div class="text-sm md:text-base font-semibold ">Majority recapitalization</div>
                         </div>
 
-                        <div class="shadow-md p-4">
+                        <div data-aos="slide-left" data-aos-duration="4000" class="shadow-md p-4">
                             <div class="text-6xl text-gray-200">
                             3
                             </div>
                             <div class="p-2"></div>
                         
-                            <div class="text-sm md:text-base md:font-semibold">Check size: Min - $5 million | Max - $1 billion</div>
+                            <div class="text-sm md:text-base font-semibold">Check size: Min - $5 million | Max - $1 billion</div>
                         </div>
 
-                        <div class="shadow-md p-4">
+                        <div data-aos="slide-right" data-aos-duration="4000" class="shadow-md p-4">
                             <div class="text-6xl text-gray-200">
                                 4
                             </div>
                             <div class="p-2"></div>
                         
-                            <div class="text-sm md:text-base md:font-semibold">Corporate carve-outs and businesses undergoing transitions</div>
+                            <div class="text-sm md:text-base font-semibold">Corporate carve-outs and businesses undergoing transitions</div>
                         </div>
 
-                            <div class="shadow-md p-4">
+                            <div data-aos="slide-left" data-aos-duration="4000" class="shadow-md p-4">
                             <div class="text-6xl text-gray-200">
                                 5
                             </div>
@@ -144,7 +144,7 @@
             </div>
         </div>
 
-        <div class="text-4xl font-medium mb-2 text-center py-10">Working with us</div>
+        <div class="text-4xl font-medium mb-2 text-center mt-16 pb-4">Pecks Of Working With Us</div>
            
         </div>
 
@@ -152,7 +152,7 @@
                 <div>
                     <div class="container px-10 grid md:grid-cols-2 grid-cols-1 lg:grid-cols-3 gap-10 mx-auto ">
 
-                        <div class="shadow-md bg-white p-4">
+                        <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-md bg-white p-4">
                             <div>
                                 <img :src="require('@/images/capital.png')" class="mx-auto w-24" />
                             </div>
@@ -167,7 +167,7 @@
                             </div>
                         </div>
 
-                        <div class="shadow-md bg-white p-4 ">
+                        <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-md bg-white p-4 ">
                             <div>
                                 <img :src="require('@/images/investor.svg')" class="mx-auto w-24" />
                             </div>
@@ -182,7 +182,7 @@
                             </div>
                         </div>
 
-                        <div class="shadow-md p-4 bg-white ">
+                        <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-md p-4 bg-white ">
                             <div>
                                 <img :src="require('@/images/talent.svg')" class="mx-auto w-24" />
                             </div>
@@ -197,7 +197,7 @@
                             </div>
                         </div>
 
-                        <div class="shadow-md p-4 bg-white ">
+                        <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-md p-4 bg-white ">
                             <div>
                                 <img :src="require('@/images/closing.svg')" class="mx-auto w-24" />
                             </div>
@@ -212,7 +212,7 @@
                             </div>
                         </div>
 
-                        <div class="shadow-md p-4 bg-white">
+                        <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-md p-4 bg-white">
                             <div>
                                 <img :src="require('@/images/feedback.svg')" class="mx-auto w-24" />
                             </div>
@@ -227,7 +227,7 @@
                             </div>
                         </div>
 
-                        <div class="shadow-md p-4 bg-white">
+                        <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-md p-4 bg-white">
                             <div>
                                 <img :src="require('@/images/invest.png')" class="mx-auto w-24" />
                             </div>
@@ -256,7 +256,7 @@
 
                     <div class=" grid md:grid-cols-2 grid-cols-1 lg:grid-cols-3 gap-10 mx-auto">
 
-                        <div class="shadow-md p-4 ">
+                        <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-md p-4 ">
                             <div>
                                 <img :src="require('@/images/trust.svg')" class="mx-auto w-24" />
                             </div>
@@ -270,7 +270,7 @@
                             </div>
                         </div>
 
-                        <div class="shadow-md p-4 ">
+                        <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-md p-4 ">
                             <div>
                                 <img :src="require('@/images/climb.svg')" class="mx-auto w-24" />
                             </div>
@@ -284,7 +284,7 @@
                             </div>
                         </div>
 
-                        <div class="shadow-md p-4 ">
+                        <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-md p-4 ">
                             <div>
                                 <img :src="require('@/images/steward.svg')" class="mx-auto w-24" />
                             </div>
@@ -298,7 +298,7 @@
                             </div>
                         </div>
 
-                        <div class="shadow-md p-4 ">
+                        <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-md p-4 ">
                             <div>
                                 <img :src="require('@/images/done.svg')" class="mx-auto w-24" />
                             </div>
@@ -314,7 +314,7 @@
                             </div>
                         </div>
 
-                        <div class="shadow-md p-4 ">
+                        <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-md p-4 ">
                             <div>
                                 <img :src="require('@/images/grit.svg')" class="mx-auto w-24" />
                             </div>
@@ -336,8 +336,15 @@
 </template>
 
 <script>
+import AOS from 'aos';
+import 'aos/dist/aos.css'; // You can also use <link> for styles
+// ..
 export default {
-    name: 'IndexPage'
+    created(){
+        if (process.browser) {
+            AOS.init();
+        }
+    }
 }
 </script>
 

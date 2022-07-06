@@ -2,7 +2,8 @@
     <div class="h-full px-10">
         <div class="max-w-5xl lg:max-w-7xl">
                 <div class="text-white text-4xl md:text-7xl lg:text-5xl max-w-3xl font-medium lg:text-6xl xl:text-7xl">
-                    The better we <span class="underline underline-offset-8"> know you</span>, the more we can do. We'll take <span class="underline underline-offset-8">you farther</span>.
+                    The better we <span class="underline underline-offset-8"> know you</span>, the more we can do. We'll take <span class="underline underline-offset-8">
+                        you further</span>.
                 </div>
 
             <div class="py-32 md:py-6">
@@ -16,8 +17,13 @@
 </template>
 
 <script>
+import AOS from 'aos';
+import 'aos/dist/aos.css'; // You can also use <link> for styles
+// ..
 export default {
-
+    created(){
+        AOS.init();
+    }
 }
 </script>
 

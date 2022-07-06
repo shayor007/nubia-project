@@ -16,7 +16,7 @@
         <div class="py-4"></div>
 
 
-        <button @click="$emit('ToggleModal')" class="bg-primary-100 text-white flex justify-center mx-auto py-2 px-4 text-center rounded-md">READ MORE</button>
+        <button @click="$emit('ToggleModal')" class="bg-black text-white flex justify-center mx-auto py-2 px-4 text-center rounded-md">READ MORE</button>
     </div>
   </div>
 </template>
