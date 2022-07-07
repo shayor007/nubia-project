@@ -21,7 +21,7 @@
         <img :src="require('@/images/team.jpg')" class="object-cover h-96 w-full justify-center" />
     </div>
 
-    <div class="absolute  top-52 text-center mx-auto w-full text-white text-4xl font-medium lg:text-5xl xl:text-6xl">
+    <div data-aos="zoom-in" data-aos-duration="4000" class="absolute  top-52 text-center mx-auto w-full text-white text-4xl font-medium lg:text-5xl xl:text-6xl">
         Meet The Team
     </div>
 
@@ -53,7 +53,7 @@ export default {
       team_members: [
         {
           id:1,
-          picture: require('@/images/teem.png'),
+          picture: require('@/images/ola.png'),
           name: "Olaide Lawal",
           position: "Managing Partner",
           content: "Olaide brings significant investment and management experience to Nubia Capital. For over 15 years, Olaide has worked in strategy, implementation and investing roles – leading organizations within United States and internationally. Olaide’s specialization includes Strategy, Finance, Organizational Performance and Leadership. Olaide’s experience has spanned a number of industries including financial services, technology, media, healthcare, manufacturing, oil & gas and construction. Olaide cofounded Barah Capital Partners a private investment firm. He also took an operating role as President of Unified Dental Care, a Barah Capital Partners portfolio company. Olaide seats on the board of several companies in the healthcare, technology, retail and fitness industries.  Prior to being in private investments, Olaide worked at one of the largest multibillion dollar semiconductor companies where he facilitated the achievement of some of the organization's highest-level initiatives. Prior to working in semiconductors, Olaide worked for Accenture (one of the World’s Most Admired Companies on FORTUNE’s list) as a management consultant on various value creation engagements. Olaide holds an MBA from the Gies College of Business at the University of Illinois Urbana-Champaign, where he was a Dean’s Fellow. Olaide also holds a Bachelor of Science in Civil Engineering from the University of Lagos.",
@@ -86,9 +86,8 @@ export default {
 </script>
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
-  body{
-    font-family: "Poppins", sans-serif;
-  }
+body{
+  font-family: "Montserrat" san-serif;
+}
 </style>
 

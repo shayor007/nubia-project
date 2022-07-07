@@ -14,7 +14,7 @@
         </div>
 
         <div class="absolute z-20 top-52 text-center mx-auto w-full text-white text-4xl font-medium lg:text-5xl xl:text-6xl">
-            <h1>Get Familiar With Us</h1>
+            <h1 data-aos="zoom-in" data-aos-duration="4000">Get Familiar With Us</h1>
         </div>
 
 
@@ -52,10 +52,10 @@
                 </div>
 
 
-            <div  data-aos="ease-in" data-aos-duration="4000" class="text-4xl font-medium mb-2 text-center py-10">Where We Invest</div>
+            <div  data-aos="fade-down" data-aos-duration="4000" class="text-4xl font-medium mb-2 text-center py-10">Where We Invest</div>
 
 
-                <div class="bg-no-repeat bg-cover bg-center py-36" :style="{backgroundRepeat: 'no-repeat' + ';' , backgroundImage: 'url(' + require('@/images/meeting1.jpg') +')'}">
+                <div class="bg-no-repeat bg-cover bg-center py-36" :style="{backgroundRepeat: 'no-repeat' + ';' , backgroundImage: 'url(' + require('@/images/meeting0.jpg') +')'}">
                     <div class="pt-10 max-w-4xlg mx-auto container">
                         <div class="px-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 md:mx-auto lg:max-w-9xl">
                             <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-lg bg-white p-4 text-center rounded-md">
@@ -87,7 +87,7 @@
             </div>
         </div>
 
-        <div class="text-4xl font-medium mb-2 text-center mt-8">Transaction Types</div>
+        <div data-aos="fade-down" data-aos-duration="4000" class="text-4xl font-medium mb-2 text-center mt-8">Transaction Types</div>
         <div class="p-2"></div>
 
 
@@ -144,8 +144,8 @@
             </div>
         </div>
 
-        <div class="text-4xl font-medium mb-2 text-center mt-16 pb-4">Pecks Of Working With Us</div>
-           
+        <div data-aos="fade-down" data-aos-duration="4000" class="text-4xl font-medium mb-2 text-center mt-16 pb-4">Perks Of Working With Us</div>
+            <div class="p-2"></div>   
         </div>
 
         <div class="bg-gray-100 py-32">
@@ -247,7 +247,7 @@
 
         <div  class=" mx-auto"></div>
 
-        <div class="bg-white px-10 mt-10">
+        <div data-aos="fade-down" data-aos-duration="4000" class="bg-white px-10 mt-10">
                 <div class="text-4xl font-medium mb-2 text-center mt-16 ">Nubia Core Values</div>
 
 
@@ -349,8 +349,7 @@ export default {
 </script>
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
-  body{
-    font-family: "Poppins", sans-serif;
-  }
+body{
+  font-family: "Montserrat" san-serif;
+}
 </style>

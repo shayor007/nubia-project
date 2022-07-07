@@ -5,8 +5,8 @@
                 Email: <span class="font-semibold">career@nubiacapital.com</span> 
             </div>
 
-            <div class="pl-8 text-white">
-                Phone:
+            <div class="pl-8 text-white ">
+                Phone: <span class="font-semibold">08069350756</span>
             </div>
         </div>  
     </div>

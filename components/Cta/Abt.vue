@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="mx-auto ">
+        <!-- <div class="mx-auto ">
             <div class=" ">
                 <div class="mx-auto">
                     <div class="">
@@ -40,7 +40,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>   
 </template>
 

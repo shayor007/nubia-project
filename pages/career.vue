@@ -10,7 +10,7 @@
             <img :src="require('@/images/interview.jpg')" class="object-cover h-96 w-full justify-center" />
         </div>
 
-        <div class="absolute z-20 top-52 text-center mx-auto w-full text-white text-4xl font-medium lg:text-5xl xl:text-6xl">
+        <div data-aos="zoom-in" data-aos-duration="4000" class="absolute z-20 top-52 text-center mx-auto w-full text-white text-4xl font-medium lg:text-5xl xl:text-6xl">
             Join Nubia Capital
         </div>
 
@@ -31,5 +31,7 @@ export default {
 </script>   
 
 <style>
-    
+body{
+  font-family: "Montserrat" san-serif;
+}  
 </style>

@@ -19,6 +19,8 @@ export default {
 </script>
 
 <style>
-
+body{
+  font-family: "Montserrat" san-serif;
+}
 </style>
 
