@@ -1,11 +1,13 @@
 <template>
   <div class="relative ">
-    <TabUppertab class=""/>
-    <TabMaintab class="my absolute" />
-  
-    <HomepagebgBg/>
+    <div class="">
+      <TabUppertab class="" />
+      <TabMaintab class="my absolute" />
+    
+      <HomepagebgBg/>
 
-    <CtaAbt/>
+      <CtaAbtAction class=""/>
+    </div>
   </div>
 
 
@@ -16,7 +18,7 @@ export default {
 
 }
 
-</script>
+</script>s
 
 <style>
 body{

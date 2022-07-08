@@ -5,9 +5,10 @@
       <div class="block lg:flex">
         <img :src="selected_member.picture" class="p-6  rounded-full w-2/4 lg:w-1/3 mx-auto"/>
         <div>          
-          <div class="text-primary-100 font-bold text-center">{{selected_member.name}} – {{selected_member.position}}</div>
-          {{selected_member.content}}
-
+          <div class="text-black font-bold text-center">{{selected_member.name}} – {{selected_member.position}}</div>
+          <div class="text-sm md:text-base">
+            {{selected_member.content}}
+          </div>
         </div>
       </div>
     </ModalsBigModal>
@@ -17,18 +18,18 @@
     </div>
 
     <div class="">
-        <div class="w-full bg-black bg-opacity-50 absolute h-96"></div>
-        <img :src="require('@/images/team.jpg')" class="object-cover h-96 w-full justify-center" />
+        <div class="w-full bg-black bg-opacity-50 absolute h-56 md:h-96"></div>
+        <img :src="require('@/images/team.jpg')" class="object-cover h-56 md:h-96 w-full justify-center" />
     </div>
 
-    <div data-aos="zoom-in" data-aos-duration="4000" class="absolute  top-52 text-center mx-auto w-full text-white text-4xl font-medium lg:text-5xl xl:text-6xl">
+    <div data-aos="zoom-in" data-aos-duration="4000" class="absolute z-20 top-28 md:top-60 text-center mx-auto w-full text-white font-medium text-3xl md:text-5xl lg:text-5xl">
         Meet The Team
     </div>
 
     
     <div class="p-8"></div>
     
-    <div class=" block lg:flex container mx-auto max-w-7xl gap-16 px-10">
+    <div class="text-sm md:text-base block lg:flex container mx-auto max-w-7xl gap-16 px-10">
 
       <TeamMember v-for="member in team_members" :key="member.id" 
       :imageUrl="member.picture"

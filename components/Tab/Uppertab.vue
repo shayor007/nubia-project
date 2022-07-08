@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-black px-10 w-full hidden md:block">
-        <div class="py-1 mx-auto flex justify-between text-sm">
+    <div class="bg-black hidden md:block md:w-full ">
+        <div class="py-1 mx-auto flex justify-between text-sm container">
             <div class="text-white ">
                 Email: <span class="font-semibold">career@nubiacapital.com</span> 
             </div>
