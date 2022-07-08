@@ -52,42 +52,9 @@
                     </div>
 
 
-                <!-- <div  data-aos="fade-down" data-aos-duration="4000" class="text-2xl md:text-4xl font-medium mb-2 text-center py-10">Where We Invest</div> -->
-
-
-                    <!-- <div class="bg-no-repeat bg-cover bg-center py-36" :style="{backgroundRepeat: 'no-repeat' + ';' , backgroundImage: 'url(' + require('@/images/meeting0.jpg') +')'}">
-                        <div class=" max-w-4xlg mx-auto container">
-                            <div class="px-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 md:mx-auto lg:max-w-9xl">
-                                <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-lg bg-white p-4 text-center rounded-md">
-                                    <img :src="require('@/images/africa.png')" alt="" class="w-16 mx-auto flex justify-center mb-2">
-                                    <div class="font-bold  text-center">Geography</div>
-                                    <div class="text-sm md:text-base">Africa or Africa-focused</div>
-                                </div>
-
-                                <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-lg bg-white p-4 text-center rounded-md">
-                                    <img :src="require('@/images/software.png')" alt="" class="w-16 mx-auto flex justify-center mb-2">
-                                    <div class="font-bold text-center">Industries/Focus areas</div>
-                                    <div class="text-sm md:text-base">Software, technology-enabled businesses, industry consolidation</div>
-                                </div>
-
-                                <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-lg bg-white p-4 text-center rounded-md">
-                                    <img :src="require('@/images/revenue.png')" alt="" class="w-16 mx-auto flex justify-center mb-2">
-                                    <div class="font-bold text-center">Revenue</div>
-                                    <div class="text-sm md:text-base">Greater than $5 million</div>
-                                </div>
-
-                                <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-lg bg-white p-4 text-center rounded-md">
-                                    <img :src="require('@/images/value.png')" alt="" class="w-16 mx-auto flex justify-center mb-2">
-                                    <div class="font-bold text-center">Enterprise value</div>
-                                    <div class="text-sm md:text-base">Up to $1 billion</div>
-                                    <div class="md:py-6"></div>
-                                </div>
-                        </div>
-                    </div>
-                </div>
             </div>
 
-            <div data-aos="fade-down" data-aos-duration="4000" class="text-2xl md:text-4xl font-medium mb-2 text-center mt-8">Transaction Types</div>
+            <div data-aos="fade-down" data-aos-duration="4000" class="text-2xl md:text-4xl font-medium mb-2 text-center mt-8">How We Operategit</div>
             <div class="p-2"></div>
 
 
