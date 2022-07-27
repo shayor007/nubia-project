@@ -108,7 +108,7 @@
                 
                 </div>
             </div>
-        </div> -->
+        </div> 
 
         <div data-aos="fade-down" data-aos-duration="4000" class="text-2xl md:text-4xl  font-medium mb-2 text-start text-center mt-16 pb-4">Perks Of Working With Us</div>
             <div class="p-2"></div>   
@@ -120,7 +120,7 @@
 
                         <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-md bg-white p-4">
                             <div>
-                                <img :src="require('@/images/capital.png')" class="mx-auto w-24" />
+                                <img :src="require('@/images/capital.png')" class="mx-auto w-24"/>
                             </div>
                             <div class="p-2"></div>
 
