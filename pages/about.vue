@@ -28,12 +28,11 @@
                                 </div>
 
                                 <div class="text-sm md:text-base ">
-                                    We aim to become the most reputable private investment firm with a focus on the African continent <br />
-                                    With access to more than $4 billion of capital, we are conscientiously investing in Africa to help
-                                    exceptional people create and grow exceptional
-                                    businesses. We believe that conscientious investing is key to a better future -
-                                    a healthier planet, a smarter economy, a diverse and happier community, and a broader path to prosperity.
                                     Nubia is a people driven investment firm with a focus on the African Continent.
+                                    <br>
+                                    With access to more than $4 billion of capital, we are conscientiously investing in Africa to help exceptional people create and grow exceptional businesses. 
+                                    <br>
+                                    We believe that conscientious investing is key to a better future - a healthier planet, a smarter economy, a diverse and happier community, and a broader path to prosperity.
                                 </div> 
                             </div>
 
@@ -54,7 +53,7 @@
 
             </div>
 
-            <div data-aos="fade-down" data-aos-duration="4000" class="text-2xl md:text-4xl font-medium mb-2 text-center mt-8">How We Operategit</div>
+            <div data-aos="fade-down" data-aos-duration="4000" class="text-2xl md:text-4xl font-medium mb-2 text-center mt-8">How We Operate</div>
             <div class="p-2"></div>
 
 
@@ -125,11 +124,11 @@
                             </div>
                             <div class="p-2"></div>
 
-                            <div class="font-bold">
+                            <div class="font-bold text-center">
                                 Patient Capital
                             </div>
 
-                            <div class="text-sm md:text-base text-center">
+                            <div class="text-sm md:text-base text-justify">
                                 We know that building a great company takes time and we work patiently with businesses to unlock value over time.
                             </div>
                         </div>
@@ -144,7 +143,7 @@
                                 Lead Investors
                             </div>
 
-                            <div class="text-sm md:text-base text-center">
+                            <div class="text-sm md:text-base text-justify">
                                 We play an active role in closing and governance whenever we are co-investing with likeminded investors
                             </div>
                         </div>
@@ -159,7 +158,7 @@
                                 World-class talent
                             </div>
 
-                            <div class="text-sm md:text-base text-center">
+                            <div class="text-sm md:text-base text-justify">
                                 Our team consist of exceptional talent that are ready to support you from the very first day and onward. 
                             </div>
                         </div>
@@ -174,7 +173,7 @@
                                 High certainty of closing
                             </div>
 
-                            <div class="text-sm md:text-base text-center">
+                            <div class="text-sm md:text-base text-justify">
                                 Once we decide that a deal fits well with us, we move with speed and certainty toward a close
                             </div>
                         </div>
@@ -189,7 +188,7 @@
                                 Prompt Feedback 
                             </div>
 
-                            <div class="text-sm md:text-base text-center text-sm md:text-base">
+                            <div class="text-sm md:text-base text-justify text-sm md:text-base">
                                 We are committed to being outstanding partners to our intermediaries and we strive to deliver feedback on new deals within 24 hours.
                             </div>
                         </div>
@@ -204,7 +203,7 @@
                                 Competitive Buy-side fee 
                             </div>
                             
-                            <div class="text-sm md:text-base text-center">
+                            <div class="text-sm md:text-base text-justify">
                                 We offer an attractive buy-side fee and are excited to hear about opportunities that may be a great fit for Nubia
                             </div>
                         </div>
@@ -232,7 +231,7 @@
                             <div class="font-bold text-center">
                                 Consistency of Character 
                             </div>
-                            <div class="text-sm md:text-base text-center">
+                            <div class="text-sm md:text-base text-justify">
                                 We have good motives, we keep our word and we choose the right path – even when it’s difficult.
                             </div>
                         </div>
@@ -246,7 +245,7 @@
                             <div class="font-bold text-center">
                                 Continuous improvement 
                             </div>
-                            <div class="text-sm md:text-base text-center">
+                            <div class="text-sm md:text-base text-justify">
                                 We always work in a continuum of learning and implementation. Knowing that things can always be better.
                             </div>
                         </div>
@@ -260,7 +259,7 @@
                             <div class="font-bold text-center">
                                 Stewardship
                             </div>
-                            <div class="text-sm md:text-base text-center">
+                            <div class="text-sm md:text-base text-justify">
                                 We treat every resource in our care like it is truly ours.
                             </div>
                         </div>
@@ -275,7 +274,7 @@
                                 Get it done 
                             </div>
 
-                            <div class="text-sm md:text-base text-center">
+                            <div class="text-sm md:text-base text-justify">
                                 We know that time is the most valuable resource on the planet, so we strive to always be at the
                                 right place at the right time doing the right things.
                             </div>
@@ -291,7 +290,7 @@
                                 Grit 
                             </div>
 
-                            <div class="text-sm md:text-base text-center">
+                            <div class="text-sm md:text-base text-justify">
                                 We combine perseverance, tenacity, and passion in our quest to fulfil our mission.
                             </div>
                         </div>

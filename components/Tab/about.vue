@@ -28,12 +28,7 @@
                                 </div>
 
                                 <div class="text-sm md:text-base ">
-                                    We aim to become the most reputable private investment firm with a focus on the African continent <br />
-                                    With access to more than $4 billion of capital, we are conscientiously investing in Africa to help
-                                    exceptional people create and grow exceptional
-                                    businesses. We believe that conscientious investing is key to a better future -
-                                    a healthier planet, a smarter economy, a diverse and happier community, and a broader path to prosperity.
-                                    Nubia is a people driven investment firm with a focus on the African Continent.
+                                    Nubia is a people driven investment firm with a focus on the African Continent. With access to more than $4 billion of capital, we are conscientiously investing in Africa to help exceptional people create and grow exceptional businesses. We believe that conscientious investing is key to a better future - a healthier planet, a smarter economy, a diverse and happier community, and a broader path to prosperity.
                                 </div> 
                             </div>
 

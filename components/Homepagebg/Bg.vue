@@ -10,7 +10,7 @@
               </div>
 
               <div class="py-6">
-                <button class="font-semibold border-2 border-white rounded-sm text-white py-2 px-4 hover:bg-white hover:text-black duration-500 ease-in-out">
+                <button class="font-semibold border-2 border-white rounded-sm text-white py-2 px-4 hover:bg-white hover:text-black duration-500 ease-in-out" @click="emitcontact">
                     Let's Talk Business
                 </button>
               </div>
@@ -25,6 +25,12 @@
 
 <script>
 export default {
+  methods: {
+    emitcontact(){
+      this.$router.push({path: '/contact'})
+    },
+    
+  }
 
 }
 </script>

@@ -21,6 +21,7 @@
                 <button class="flex my-6 px-4 font-semibold border-b-2 w-full md:w-max justify-start border-white md:border-2 md:hover:border-white md:border-transparent py-2 rounded-sm duration-500 ease-in-out" @click="emitintrest">Our Interest</button>
                 <button class="flex my-6 px-4 font-semibold border-b-2 w-full md:w-max justify-start border-white md:border-2 md:hover:border-white md:border-transparent py-2 rounded-sm duration-500 ease-in-out" @click="emitourTeam">Our Team</button>
                 <button class="flex my-6 px-4 font-semibold border-b-2 w-full md:w-max justify-start border-white md:border-2 md:hover:border-white md:border-transparent py-2 rounded-sm duration-500 ease-in-out" @click="emitcareers">Careers</button>
+                <button class="flex my-6 px-4 font-semibold border-b-2 w-full md:w-max justify-start border-white md:border-2 md:hover:border-white md:border-transparent py-2 rounded-sm duration-500 ease-in-out" @click="emitcontact">Contact Us</button>
             </div>
       </div>
 
@@ -66,6 +67,10 @@ export default {
 
         emitintrest(){
             this.$router.push({path: '/intrest'})
+        },
+        
+        emitcontact(){
+            this.$router.push({path: '/contact'})
         },
 
         hideMenu(){
