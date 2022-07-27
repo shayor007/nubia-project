@@ -6,7 +6,7 @@
         <img :src="selected_member.picture" class="p-6  rounded-full w-2/4 lg:w-1/2 mx-auto"/>
         <div>          
           <div class="text-black font-bold text-center">{{selected_member.name}} – {{selected_member.position}}</div>
-          <div class="text-sm md:text-base">
+          <div class="text-sm md:text-base text-justify">
             {{selected_member.content}}<br/>
             <br/>
             {{selected_member.content1}}<br/>

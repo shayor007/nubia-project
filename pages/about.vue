@@ -32,6 +32,7 @@
                                     <br>
                                     With access to more than $4 billion of capital, we are conscientiously investing in Africa to help exceptional people create and grow exceptional businesses. 
                                     <br>
+                                    <br>
                                     We believe that conscientious investing is key to a better future - a healthier planet, a smarter economy, a diverse and happier community, and a broader path to prosperity.
                                 </div> 
                             </div>
@@ -40,9 +41,14 @@
                                 <div class="font-medium mb-2 my-6 text-2xl md:text-4xl">The Nubia Way</div>
 
                                 <div class="text-sm md:text-base">We win by having the best people work on the best opportunities using the very best practices. 
+                                    <br>
+                                    <br>
 
                                     CEOs and Founders are at the center of everything we do. We work with exceptional CEOs and Founders who share our
-                                    values and passion for building enduring purpose-driven companies. We then provide these CEOs and Founders with the 
+                                    values and passion for building enduring purpose-driven companies.
+                                    <br>
+                                    <br>
+                                    We then provide these CEOs and Founders with the 
                                     support and capital they need to accelerate growth in their next chapter.
                                 </div>
                             </div>
