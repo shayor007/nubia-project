@@ -58,7 +58,7 @@
 
         <div class="bg-no-repeat bg-cover bg-center py-36" :style="{backgroundRepeat: 'no-repeat' + ';' , backgroundImage: 'url(' + require('@/images/globe.jpg') +')'}">
             <div class=" max-w-4xlg mx-auto container">
-                <div class="px-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 md:mx-auto lg:max-w-9xl">
+                <div class="px-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:mx-auto lg:max-w-9xl">
                     <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-lg bg-white p-4 mx-auto  rounded-md">
                         <div class=" mx-auto">
                             <img :src="require('@/images/location.png')" alt="" class="w-16 mb-2 mx-auto">
@@ -71,6 +71,14 @@
                         <div class="">
                             <img :src="require('@/images/email.svg')" alt="" class="w-16 mx-auto justify-center mb-2">
                             <div class="text-sm md:text-base text-center font-bold">olamide@nubiacapital.com</div>
+                        </div>
+                        
+                    </div>
+
+                    <div data-aos="zoom-in" data-aos-duration="4000" class="shadow-lg bg-white p-6 md:p-4 text-center rounded-md">
+                        <div class="">
+                            <img :src="require('@/images/Phone.png')" alt="" class="w-16 mx-auto justify-center mb-2">
+                            <div class="text-sm md:text-base text-center font-bold">(858) 753-5876</div>
                         </div>
                         
                     </div>
