@@ -1,5 +1,8 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  ssr: false,
+  //Target: https://go.nuxtjs.dev/config-target
+  target: 'static',
   head: {
     title: 'nubia',
     htmlAttrs: {
