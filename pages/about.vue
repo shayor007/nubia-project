@@ -27,9 +27,8 @@
                                     About Nubia Capital 
                                 </div>
 
-                                <div class="text-sm md:text-base ">
+                                <div class="text-sm md:text-base text-justify">
                                     Nubia is a people driven investment firm with a focus on the African Continent.
-                                    <br>
                                     With access to more than $4 billion of capital, we are conscientiously investing in Africa to help exceptional people create and grow exceptional businesses. 
                                     <br>
                                     <br>
@@ -40,7 +39,7 @@
                             <div>
                                 <div class="font-medium mb-2 my-6 text-2xl md:text-4xl">The Nubia Way</div>
 
-                                <div class="text-sm md:text-base">We win by having the best people work on the best opportunities using the very best practices. 
+                                <div class="text-sm md:text-base text-justify">We win by having the best people work on the best opportunities using the very best practices. 
                                     <br>
                                     <br>
 
