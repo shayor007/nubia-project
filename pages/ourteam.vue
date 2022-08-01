@@ -6,7 +6,7 @@
         <img :src="selected_member.picture" class="p-6  rounded-full w-2/4 lg:w-1/2 mx-auto"/>
         <div>          
           <div class="text-black font-bold text-center">{{selected_member.name}} – {{selected_member.position}}</div>
-          <div class="text-sm md:text-base text-justify">
+          <div class="text-sm md:text-base text-justifygi">
             {{selected_member.content}}<br/>
             <br/>
             {{selected_member.content1}}<br/>
@@ -14,6 +14,8 @@
             {{selected_member.content2}}<br/>
             <br/>
             {{selected_member.content3}}<br/>
+            <br/>
+            {{selected_member.content5}}<br/>
             <br/>
             {{selected_member.content4}}<br/>
           </div>
@@ -81,7 +83,8 @@ export default {
           content: "Davidson is an experienced corporate lawyer, financier and investor. He is invested in a number of tech startups and serves as an angel investor/advisor to a number of companies.",
           content1:"He was for several years a partner at AELEX, one of the largest and reputable law firms in Nigeria and Ghana where he headed the firm’s Startups, Innovation and Technology Practice.",
           content2:"During his time at AELEX, he led the team that drafted the Nigeria Startup Bill, one of the most prolific laws that directly addresses the regulatory and financial challenges that affect tech-enabled startups. He was also part of the Committee set up by the Securities and Exchange Commission that created a framework for the use of fintech in the Nigerian capital market.",
-          content3:"He has over fifteen years’ experience in advising established businesses and startups in different areas of regulatory compliance, law and management. He provides practical advice to clients in a variety of industries including fintech, media, telecommunications, information technology, private equity, financial services and capital markets. His areas of special interest include fintech, business regulatory compliance, intellectual property, international business, securities & corporate finance. He writes in different journals, texts and publication platforms and is a frequent speaker at local and international events.",
+          content3:"He has over fifteen years’ experience in advising established businesses and startups in different areas of regulatory compliance, law and management. He provides practical advice to clients in a variety of industries including fintech, media, telecommunications, information technology, private equity, financial services and capital markets.",
+          content5:"His areas of special interest include fintech, business regulatory compliance, intellectual property, international business, securities & corporate finance. He writes in different journals, texts and publication platforms and is a frequent speaker at local and international events.",
           content4: "Davidson has an LL.B from University of Ibadan, an LL.M in International Business Law from University of Cumbria, and an MBA from Queen Mary University of London.",
           short: "Davidson is an experienced corporate lawyer, financier and investor. He is invested in a number of tech startups and serves as an angel investor/advisor to a number of companies. He was for several years a partner ....."
         },
