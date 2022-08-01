@@ -16,7 +16,7 @@
 
 
         <div class="p-8"></div>
-        <div class="text-sm md:text-base md:font px-10 container md:container mx-auto">
+        <div class="text-sm md:text-base md:font px-10 container md:container mx-auto text-justify">
             At Nubia, we believe that winning requires having the very best people work on the very best opportunities using the very best practices. Hence, our
              indefatigable pursuit of the best talent globally. We hire on a rolling basis so if you believe that you are a good fit for what we are doing at Nubia, 
              email your resume along with a purpose statement to <span class="font-bold text-primary-100">career@nubiacap.com</span>.
